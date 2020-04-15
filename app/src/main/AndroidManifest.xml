@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gameofcoding.xlogcat"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
+
+    <application android:allowBackup="true"
+        android:label="@string/app_name"
+	android:name=".BaseApplication">
+     </application>
+
+</manifest>
